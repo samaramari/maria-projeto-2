@@ -16,4 +16,7 @@ body {
 }
 
 .principal {
-    backgroud-image: url 
+    backgroud-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
